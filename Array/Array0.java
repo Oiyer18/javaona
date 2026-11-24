@@ -11,4 +11,4 @@ public class Array0 {
         }
         System.out.println(batura);
     }
-}
+} 
